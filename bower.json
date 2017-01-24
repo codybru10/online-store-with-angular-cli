@@ -1,0 +1,17 @@
+{
+  "name": "online-store",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/codybru10/online-store-with-angular-cli",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
